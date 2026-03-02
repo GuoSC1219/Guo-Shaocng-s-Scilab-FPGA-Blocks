@@ -1,4 +1,4 @@
-# Guo-Shaocng-s-Scilab-FPGA-Blocks
+# Guo-Shaocng-Scilab-FPGA-Blocks
 Several signal processing modules applicable to the Scilab and CASPER toolchains.
 The modules here need to be used in conjunction with the CASPER toolchain based on Scilab. For detailed instructions, please refer to the following two links:
 1. https://weiliu-berkeley.notion.site/How-to-use-the-new-frontend-1a97e3df7f3041dcb4fa93a8be11e0de?pvs=4
