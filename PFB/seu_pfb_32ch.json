@@ -1,0 +1,17 @@
+{
+    "parameters":
+    {
+        "keys":
+        [
+            "name",
+            "fullpath",
+            "tag"
+        ],
+        "values":
+        [
+            "seu_pfb_32ch",
+            "",
+            "dsp:seu_pfb_32ch"
+        ]
+    }
+}
