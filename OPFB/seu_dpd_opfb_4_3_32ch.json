@@ -1,0 +1,17 @@
+{
+    "parameters":
+    {
+        "keys":
+        [
+            "name",
+            "fullpath",
+            "tag"
+        ],
+        "values":
+        [
+            "seu_dpd_opfb_4_3_32ch",
+            "",
+            "dsp:seu_dpd_opfb_4_3_32ch"
+        ]
+    }
+}
