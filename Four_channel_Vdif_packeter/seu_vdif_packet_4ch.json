@@ -1,0 +1,17 @@
+{
+    "parameters":
+    {
+        "keys":
+        [
+            "name",
+            "fullpath",
+            "tag"
+        ],
+        "values":
+        [
+            "seu_vdif_packet_4ch",
+            "",
+            "xps:seu_vdif_packet_4ch"
+        ]
+    }
+}
